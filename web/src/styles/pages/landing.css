@@ -3,7 +3,7 @@
   height: 100vh;
   background: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
 
-  padding: 80px;
+  padding: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,6 +22,8 @@
   align-items: flex-start;
   flex-direction: column;
   justify-content: space-between;
+
+  background: url('../../assets/Ilustra02.svg') no-repeat 80% center;
 }
 
 #page-landing .content-wrapper main {
